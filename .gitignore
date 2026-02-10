@@ -23,3 +23,10 @@ frontend/*
 
 # DS Store
 .DS_Store
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
